@@ -28,7 +28,7 @@ dependencies {
         });
 ```
 ![display](app/src/assets/normal.jpg)
-![selected](app/src/assets/selected/jpg)
+![selected](app/src/assets/selected.jpg)
 
 - custom example
 ``` java
