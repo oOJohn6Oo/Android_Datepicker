@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+
+    <string name="confirm">確定</string>
+    <string name="cancel">取消</string>
+
+    <string name="date_selected_day_style_1">%1$d/%2$d/%3$d</string>
+    <string name="date_selected_day_style_2">%1$d-%2$d-%3$d</string>
+    <string name="date_selected_day_style_3">%1$d年%2$d月%3$d日</string>
+    <string name="date_picker_year_month">%d %s</string>
+    <string name="date_picker_year_left_arrow_description">下一個月</string>
+    <string name="date_picker_year_right_arrow_description">上一個月</string>
+
+    <string name="date_picker_sunday">週日</string>
+    <string name="date_picker_monday">週一</string>
+    <string name="date_picker_tuesday">週二</string>
+    <string name="date_picker_wednesday">週三</string>
+    <string name="date_picker_thursday">週四</string>
+    <string name="date_picker_friday">週五</string>
+    <string name="date_picker_saturday">週六</string>
+
+    <string name="date_picker_january">一月</string>
+    <string name="date_picker_february">二月</string>
+    <string name="date_picker_march">三月</string>
+    <string name="date_picker_april">四月</string>
+    <string name="date_picker_may">五月</string>
+    <string name="date_picker_june">六月</string>
+    <string name="date_picker_july">七月</string>
+    <string name="date_picker_august">八月</string>
+    <string name="date_picker_september">九月</string>
+    <string name="date_picker_october">十月</string>
+    <string name="date_picker_november">十一月</string>
+    <string name="date_picker_december">十二月</string>
+
+    <string name="date_picker_today">今天</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="date_selected_day_style_1">%2$d/%3$d/%1$d</string>
+    <string name="date_selected_day_style_2">%2$d-%3$d-%1$d</string>
+    <string name="date_selected_day_style_3">%2$d/%3$d %1$d</string>
+    <string name="date_picker_year_month">%d %s</string>
+    <string name="date_picker_year_left_arrow_description">Next month</string>
+    <string name="date_picker_year_right_arrow_description">Last month</string>
+
+    <string name="date_picker_sunday">Sun</string>
+    <string name="date_picker_monday">Mon</string>
+    <string name="date_picker_tuesday">Tues</string>
+    <string name="date_picker_wednesday">Wed</string>
+    <string name="date_picker_thursday">Thur</string>
+    <string name="date_picker_friday">Fri</string>
+    <string name="date_picker_saturday">Sat</string>
+
+    <string name="date_picker_january">Jan</string>
+    <string name="date_picker_february">Feb</string>
+    <string name="date_picker_march">Mar</string>
+    <string name="date_picker_april">Apr</string>
+    <string name="date_picker_may">May</string>
+    <string name="date_picker_june">June</string>
+    <string name="date_picker_july">July</string>
+    <string name="date_picker_august">Aug</string>
+    <string name="date_picker_september">Sept</string>
+    <string name="date_picker_october">Oct</string>
+    <string name="date_picker_november">Nov</string>
+    <string name="date_picker_december">Dec</string>
+
+    <string name="date_picker_today">Today</string>
+</resources>
